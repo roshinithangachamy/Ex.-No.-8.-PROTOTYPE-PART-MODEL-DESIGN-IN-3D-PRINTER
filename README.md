@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 28-11-2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -50,7 +50,7 @@
 
 ## Output:
 
-### Name:ROSHINI
+### Name:ROSHINI T
 ### Register Number:23011660
 
 ## RESULT:
